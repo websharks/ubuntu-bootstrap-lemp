@@ -1,6 +1,7 @@
 ## VirtualBox + Vagrant + Landrush; running Ubuntu 16.04 LTS (Xenial Xersus) w/ Nginx, MariaDB (MySQL), and PHP 7.0
 
-LEMP stack built from the WebSharks Ubuntu Bootstrap.
+LEMP stack built from the [WebSharks Ubuntu Bootstrap project](https://github.com/websharks/ubuntu-bootstrap).
+
 _Prefer Apache? See also: [websharks/ubuntu-bootstrap-lamp](https://github.com/websharks/ubuntu-bootstrap-lamp)_
 
 ![](http://cdn.websharks-inc.com/jaswsinc/uploads/2015/03/os-x-vagrant-virtualbox.png)
