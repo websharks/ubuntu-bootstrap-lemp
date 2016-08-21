@@ -4,7 +4,7 @@ Vagrant.configure(2) do |config|
 
   # Static IP; if not using Landrush.
 
-  _static_ip = '192.168.52.53';
+  _static_ip = '192.168.62.62';
 
   # Required box configuration.
 
